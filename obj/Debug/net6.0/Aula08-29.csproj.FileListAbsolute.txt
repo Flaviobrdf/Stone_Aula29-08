@@ -1,0 +1,15 @@
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\bin\Debug\net6.0\Aula08-29.exe
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\bin\Debug\net6.0\Aula08-29.deps.json
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\bin\Debug\net6.0\Aula08-29.runtimeconfig.json
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\bin\Debug\net6.0\Aula08-29.dll
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\bin\Debug\net6.0\Aula08-29.pdb
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.csproj.AssemblyReference.cache
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.AssemblyInfoInputs.cache
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.AssemblyInfo.cs
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.dll
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\refint\Aula08-29.dll
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.pdb
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\Aula08-29.genruntimeconfig.cache
+C:\Users\Flavio\Desktop\Stone\Aula08-29\Aula08-29\Aula08-29\obj\Debug\net6.0\ref\Aula08-29.dll
